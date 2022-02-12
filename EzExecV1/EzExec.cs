@@ -14,7 +14,7 @@ using System.Diagnostics;
 using System.Threading;
 
 // By MasterDev
-// Si tu vend cette source tu est vraiment un sans race
+// Si tu vend cette source tu es vraiment un sans race
 // Tutoriel ajouté !
 
 namespace MasterDevExec
@@ -274,4 +274,4 @@ namespace MasterDevExec
 }
 
 // By MasterDev
-// Si tu vend cette source tu est vraiment un sans race
+// Si tu vend cette source tu es vraiment un sans race
