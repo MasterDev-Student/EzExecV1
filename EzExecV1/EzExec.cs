@@ -13,7 +13,7 @@ using WeAreDevs_API;
 using System.Diagnostics;
 using System.Threading;
 
-// By MasterDev
+// By InkaWeb
 // Si tu vend cette source tu es vraiment un sans race
 // Tutoriel ajouté !
 
