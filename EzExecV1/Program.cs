@@ -15,7 +15,7 @@ namespace MasterDevExec
         {
             //Message box pour confirmer que l'utilisateur a lancer roblox !
             string message = ("Inject ?");
-            string title = ("MasterDev : (Only if Roblox is started)");
+            string title = ("Inka Web : (Only if Roblox is started)");
             MessageBoxButtons buttons = MessageBoxButtons.YesNo;
             DialogResult result = MessageBox.Show(message, title, buttons);
             if (result == DialogResult.Yes)
